@@ -1,0 +1,40 @@
+2024.08.13 05:32:06 INFO  Started: Metals version 1.3.5 in folders '/mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_8/caeser-cipher' for client Visual Studio Code 1.92.1.[0m
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@44f5d3a]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@24ee419e]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@44f5d3a]
+2024.08.13 05:32:07 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.08.13 05:32:09 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_8/caeser-cipher/CaesarCipher.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.13 05:32:10 INFO  Running List(/home/kasun_mendis/.local/share/coursier/bin/scala-cli, setup-ide, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_8/caeser-cipher)[0m
+2024.08.13 05:32:10 INFO  Attempting to connect to the build server...[0m
+2024.08.13 05:32:10 INFO  Running BSP server List(/home/kasun_mendis/.local/share/coursier/bin/.scala-cli.aux, bsp, --json-options, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_8/caeser-cipher/.scala-build/ide-options-v2.json, --json-launcher-options, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_8/caeser-cipher/.scala-build/ide-launcher-options.json, --envs-file, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_8/caeser-cipher/.scala-build/ide-envs.json, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_8/caeser-cipher)[0m
+2024.08.13 05:32:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_8/caeser-cipher/.metals/bsp.trace.json or /home/kasun_mendis/.cache/metals/bsp.trace.json[0m
+2024.08.13 05:32:12 INFO  BSP server: Starting compilation server[0m
+2024.08.13 05:32:17 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_8/caeser-cipher/CaesarCipher.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.13 05:32:34 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_8/caeser-cipher/CaesarCipher.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.13 05:32:34 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_8/caeser-cipher/CaesarCipher.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.13 05:32:37 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_8/caeser-cipher/CaesarCipher.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.13 05:32:37 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_8/caeser-cipher/CaesarCipher.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.13 05:32:37 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_8/caeser-cipher/CaesarCipher.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.13 05:32:38 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_8/caeser-cipher/CaesarCipher.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.13 05:32:44 INFO  BSP server: Error: java.util.concurrent.TimeoutException: Future timed out after [30 seconds][0m
+2024.08.13 05:32:44 INFO  BSP server: For more details, please see '/mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_8/caeser-cipher/.scala-build/stacktraces/1723507364-2535483157625576442.log'[0m
+2024.08.13 05:33:11 ERROR Timeout waiting for 'build/initialize' response[0m
+2024.08.13 05:33:11 WARN  Retrying connection to the build server scala-cli[0m
+2024.08.13 05:33:11 INFO  Running BSP server List(/home/kasun_mendis/.local/share/coursier/bin/.scala-cli.aux, bsp, --json-options, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_8/caeser-cipher/.scala-build/ide-options-v2.json, --json-launcher-options, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_8/caeser-cipher/.scala-build/ide-launcher-options.json, --envs-file, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_8/caeser-cipher/.scala-build/ide-envs.json, /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_8/caeser-cipher)[0m
+2024.08.13 05:33:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_8/caeser-cipher/.metals/bsp.trace.json or /home/kasun_mendis/.cache/metals/bsp.trace.json[0m
+2024.08.13 05:33:12 INFO  time: Connected to build server in 1m1s[0m
+2024.08.13 05:33:12 INFO  Connected to Build server: scala-cli v1.3.2[0m
+2024.08.13 05:33:13 INFO  compiling caeser-cipher_f4dd477a3a (1 scala source)[0m
+2024.08.13 05:33:19 INFO  time: Imported build in 7.06s[0m
+2024.08.13 05:33:19 INFO  running doctor check[0m
+2024.08.13 05:33:19 INFO  java targets: caeser-cipher_f4dd477a3a-test, caeser-cipher_f4dd477a3a[0m
+2024.08.13 05:33:22 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.08.13 05:33:25 INFO  time: indexed workspace in 5.84s[0m
+Aug 13, 2024 5:41:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39
+2024.08.13 05:49:22 INFO  Shutting down server[0m
+2024.08.13 05:49:22 INFO  shutting down Metals[0m
+2024.08.13 05:49:22 INFO  Shut down connection with build server.[0m
+2024.08.13 05:49:22 INFO  Exiting server[0m
